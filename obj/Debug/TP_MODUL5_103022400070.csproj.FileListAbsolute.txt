@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\bin\Debug\TP_MODUL5_103022400070.exe.config
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\bin\Debug\TP_MODUL5_103022400070.exe
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\bin\Debug\TP_MODUL5_103022400070.pdb
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\obj\Debug\TP_MODUL5_103022400070.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\obj\Debug\TP_MODUL5_103022400070.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\obj\Debug\TP_MODUL5_103022400070.exe
+C:\Users\HP\Desktop\ExposiveToolsEncoder\ExposiveToolsEncoder\TP_MODUL5_103022400070\TP_MODUL5_103022400070\obj\Debug\TP_MODUL5_103022400070.pdb
